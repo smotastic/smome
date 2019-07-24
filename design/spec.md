@@ -23,3 +23,7 @@ In den Einstellungen können folgende Anpassungen vorgenommen werden.
 * Früheste Startzeit eintragen
 * Mindestzeit der Pause
 * Maximal Zeit der erlaubten Stunden pro Tag
+
+# Ideen
+* Lokaler Export der Daten
+* Download im Excel Format für Buchhaltung (beinhaltet eigenen Server)
